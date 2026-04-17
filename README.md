@@ -26,7 +26,6 @@ Sulfur reproduced the oxygen-centered local neighborhood under the tested repres
 - /notebook → Jupyter notebook used for the analysis
 - /data → input dataset
 - /figures → exported figures used in the paper
-- /outputs → ranking tables and sensitivity analyses
 
 ## License
 
