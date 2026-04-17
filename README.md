@@ -1,5 +1,7 @@
 # Oxygen and sulfur define a shared local geometry in multivariable periodic table space
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19634706.svg)](https://doi.org/10.5281/zenodo.19634706)
+
 This repository contains the notebook, figures, dataset, and PDF associated with the preprint:
 
 "Oxygen and sulfur define a shared local geometry in multivariable periodic table space"
